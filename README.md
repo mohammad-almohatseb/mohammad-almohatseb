@@ -72,10 +72,6 @@ I’m working toward becoming a **Security Engineer** and later a **Security Arc
 
 ## 🚀 Featured Project: CyberGuard PTaaS
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-almohtaseb&repo=cyberguard-ptaas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
-</div>
-
 **🛡️ Automated Penetration Testing Platform**
 
 **CyberGuard PTaaS** delivers enterprise-grade security testing through:
