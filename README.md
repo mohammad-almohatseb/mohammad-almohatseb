@@ -8,12 +8,14 @@
 
 ## 🛡️ About Me
 
-I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for **Penetration Testing**, **Vulnerability Assessment**, and **Network Security**. Currently diving deep into advanced penetration testing techniques and cloud security architectures.
+I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for **Penetration Testing**, **Vulnerability Assessment**, and **Network Security**.  
 
-🔐 **What I do:** Specialized in identifying security vulnerabilities and building robust security solutions  
-🎯 **Current Focus:** Advanced penetration testing, cloud security, and scalable security architectures  
-🚀 **Notable Project:** Developed **CyberGuard PTaaS** - a comprehensive penetration testing-as-a-service platform  
-💭 **Philosophy:** *"Confusion is part of programming and hacking."*
+Currently diving deeper into **advanced penetration testing**, **cloud security**, and **scalable security architectures**.  
+
+🔐 **What I do:** Identify security vulnerabilities & build robust security solutions  
+🎯 **Current Focus:** Network & web penetration testing, cloud security (AWS), ISO 27001  
+🚀 **Notable Project:** Developed **CyberGuard PTaaS** - a penetration testing-as-a-service platform with FastAPI, Docker, MongoDB & Nmap  
+💭 **Philosophy:** *"Confusion is part of programming and hacking."*  
 
 ---
 
@@ -22,12 +24,12 @@ I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-almohtaseb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-almohtaseb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-almohtaseb&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 </div>
 
 ---
@@ -37,7 +39,7 @@ I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammad-almohtaseb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest"/>
 </div>
 
 ---
@@ -65,7 +67,7 @@ I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for
 
 ### 💻 Development & Infrastructure
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,mongodb,linux,git,github,aws,networking" alt="Development Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,mongodb,linux,git,github,aws" alt="Development Stack"/>
 </div>
 
 ### 📚 Currently Learning
@@ -84,15 +86,15 @@ I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for
 ## 🚀 Featured Project: CyberGuard PTaaS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=cyberguard-ptaas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-almohtaseb&repo=cyberguard-ptaas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
 </div>
 
 **CyberGuard PTaaS** is a comprehensive penetration testing-as-a-service solution built with:
-- **FastAPI** for high-performance API development
-- **Docker & Docker Compose** for containerized deployment
-- **MongoDB** for scalable data storage
-- **Nmap** integration for automated network security testing
-- **Web Security Testing** capabilities for comprehensive vulnerability assessment
+- **FastAPI** for high-performance API development  
+- **Docker & Docker Compose** for containerized deployment  
+- **MongoDB** for scalable data storage  
+- **Nmap** integration for automated network security testing  
+- **Web Security Testing** for comprehensive vulnerability assessment  
 
 ---
 
@@ -105,7 +107,7 @@ I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-almohtaseb)
   
 </div>
 
@@ -118,7 +120,7 @@ I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for
   
   ### 🔒 "In cybersecurity, the only constant is change. Stay curious, stay secure." 
   
-  ![Visitor Count](https://profile-counter.glitch.me/YourGitHubUsername/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/mohammad-almohtaseb/count.svg)
   
-  **⭐ From [Mohammad Al-mohtaseb](https://github.com/YourGitHubUsername) with 🛡️**
+  **⭐ From [Mohammad Al-mohtaseb](https://github.com/mohammad-almohtaseb) with 🛡️**
 </div>
