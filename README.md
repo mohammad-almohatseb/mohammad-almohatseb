@@ -8,27 +8,29 @@
 
 ## 🛡️ About Me
 
-I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for **Penetration Testing**, **Vulnerability Assessment**, and **Network Security**. Currently diving deep into advanced penetration testing techniques and cloud security architectures.
+I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for **Penetration Testing**, **Vulnerability Assessment**, and **Network Security**.  
 
-🔐 **What I do:** Specialized in identifying security vulnerabilities and building robust security solutions  
-🎯 **Current Focus:** Advanced penetration testing, cloud security, and scalable security architectures  
-🚀 **Notable Project:** Developed **CyberGuard PTaaS** - a comprehensive penetration testing-as-a-service platform  
-💭 **Philosophy:** *"Confusion is part of programming and hacking."*
+Currently exploring **advanced penetration testing**, **cloud security**, and **secure system architectures** to build safer digital environments.  
+
+🔐 **What I do:** Identify security risks & create robust solutions  
+🎯 **Current Focus:** Network & web penetration testing, cloud security (AWS), ISO 27001  
+🚀 **Notable Project:** Developed **CyberGuard PTaaS** – a penetration testing-as-a-service platform  
+💭 **Philosophy:** *"Confusion is part of programming and hacking."*  
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔮 Future Goals  
+## 🔮 Future Work  
 
-**Building the next generation of cybersecurity solutions:**
+I’m working toward becoming a **Security Engineer** and later a **Security Architect**.  
 
-🎯 **Security Engineer** → Design & deploy robust security infrastructures  
-🏗️ **Security Architect** → Shape enterprise security from the ground up  
-☁️ **Cloud Security Specialist** → Secure scalable cloud architectures  
-🤝 **Mentor & Community Leader** → Share knowledge with aspiring professionals  
+✅ I want to **design and build secure systems** that protect businesses and users  
+✅ I aim to **specialize in cloud security** to make cloud infrastructures more resilient  
+✅ I plan to **create scalable security architectures** for enterprise environments  
+✅ I also want to **share knowledge and help others learn cybersecurity**  
 
-*Security is not just about defense, but enabling innovation safely.*
+*My goal is simple: make technology safer for everyone.*  
 
 ---
 
@@ -83,7 +85,7 @@ I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for
 - 🔍 **Nmap Integration** → Automated network reconnaissance  
 - 🌐 **Web Security Scanner** → Comprehensive application testing  
 
-*Democratizing cybersecurity through automation.*
+*Making security testing simple and accessible.*  
 
 ---
 
