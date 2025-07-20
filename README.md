@@ -21,6 +21,22 @@ Currently diving deeper into **advanced penetration testing**, **cloud security*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🔮 Future Goals  
+
+I’m deeply passionate about advancing my career in **Cybersecurity Engineering** and **Security Architecture**. My long-term vision is to:  
+
+✅ **Design scalable & secure cloud architectures** that protect organizations at all levels  
+✅ **Work as a Security Engineer**, building and deploying robust security infrastructures  
+✅ **Evolve into a Security Architect**, shaping the security posture of enterprises from the ground up  
+✅ Contribute to **modern security frameworks, zero-trust architectures, and secure DevOps pipelines**  
+✅ Mentor aspiring cybersecurity professionals and share knowledge with the community  
+
+I believe **security is not just about defense, but enabling innovation safely**.  
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## ⚡ Tech Stack & Tools
 
 ### 🔐 Cybersecurity Arsenal
