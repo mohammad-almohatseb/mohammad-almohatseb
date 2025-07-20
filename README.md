@@ -8,14 +8,12 @@
 
 ## 🛡️ About Me
 
-I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for **Penetration Testing**, **Vulnerability Assessment**, and **Network Security**.  
+I'm a **Cybersecurity Graduate** from Philadelphia University with a passion for **Penetration Testing**, **Vulnerability Assessment**, and **Network Security**. Currently diving deep into advanced penetration testing techniques and cloud security architectures.
 
-Currently diving deeper into **advanced penetration testing**, **cloud security**, and **scalable security architectures**.  
-
-🔐 **What I do:** Identify security vulnerabilities & build robust security solutions  
-🎯 **Current Focus:** Network & web penetration testing, cloud security (AWS), ISO 27001  
-🚀 **Notable Project:** Developed **CyberGuard PTaaS** - a penetration testing-as-a-service platform with FastAPI, Docker, MongoDB & Nmap  
-💭 **Philosophy:** *"Confusion is part of programming and hacking."*  
+🔐 **What I do:** Specialized in identifying security vulnerabilities and building robust security solutions  
+🎯 **Current Focus:** Advanced penetration testing, cloud security, and scalable security architectures  
+🚀 **Notable Project:** Developed **CyberGuard PTaaS** - a comprehensive penetration testing-as-a-service platform  
+💭 **Philosophy:** *"Confusion is part of programming and hacking."*
 
 ---
 
@@ -23,15 +21,39 @@ Currently diving deeper into **advanced penetration testing**, **cloud security*
 
 ## 🔮 Future Goals  
 
-I’m deeply passionate about advancing my career in **Cybersecurity Engineering** and **Security Architecture**. My long-term vision is to:  
+**Building the next generation of cybersecurity solutions:**
 
-✅ **Design scalable & secure cloud architectures** that protect organizations at all levels  
-✅ **Work as a Security Engineer**, building and deploying robust security infrastructures  
-✅ **Evolve into a Security Architect**, shaping the security posture of enterprises from the ground up  
-✅ Contribute to **modern security frameworks, zero-trust architectures, and secure DevOps pipelines**  
-✅ Mentor aspiring cybersecurity professionals and share knowledge with the community  
+🎯 **Security Engineer** → Design & deploy robust security infrastructures  
+🏗️ **Security Architect** → Shape enterprise security from the ground up  
+☁️ **Cloud Security Specialist** → Secure scalable cloud architectures  
+🤝 **Mentor & Community Leader** → Share knowledge with aspiring professionals  
 
-I believe **security is not just about defense, but enabling innovation safely**.  
+*Security is not just about defense, but enabling innovation safely.*
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-almohtaseb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-almohtaseb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-almohtaseb&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammad-almohtaseb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest"/>
+</div>
 
 ---
 
@@ -39,15 +61,13 @@ I believe **security is not just about defense, but enabling innovation safely**
 
 ## ⚡ Tech Stack & Tools
 
-### 🔐 Cybersecurity Arsenal
+### 🔐 Security Arsenal
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,python,fastapi,mongodb" alt="Core Tech Stack"/>
 </div>
 
-### 🛠️ Security Tools
+### 🛡️ Penetration Testing Tools
 <div align="center">
-  
-**Penetration Testing & Vulnerability Assessment**
   
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -61,12 +81,13 @@ I believe **security is not just about defense, but enabling innovation safely**
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,mongodb,linux,git,github,aws" alt="Development Stack"/>
 </div>
 
-### 📚 Currently Learning
+### 🎓 Security Learning Path
 <div align="center">
   
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-Information%20Security-0052CC?style=for-the-badge&logo=iso&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF-Capture%20The%20Flag-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white)
+![AWS Security](https://img.shields.io/badge/AWS-Cloud%20Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-Security%20Standards-0052CC?style=for-the-badge&logo=iso&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF-Ethical%20Hacking-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-00D9FF?style=for-the-badge&logo=shield&logoColor=white)
   
 </div>
 
@@ -76,12 +97,20 @@ I believe **security is not just about defense, but enabling innovation safely**
 
 ## 🚀 Featured Project: CyberGuard PTaaS
 
-**CyberGuard PTaaS** is a comprehensive penetration testing-as-a-service solution built with:
-- **FastAPI** for high-performance API development  
-- **Docker & Docker Compose** for containerized deployment  
-- **MongoDB** for scalable data storage  
-- **Nmap** integration for automated network security testing  
-- **Web Security Testing** for comprehensive vulnerability assessment  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-almohtaseb&repo=cyberguard-ptaas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
+</div>
+
+**🛡️ Automated Penetration Testing Platform**
+
+**CyberGuard PTaaS** delivers enterprise-grade security testing through:
+- ⚡ **FastAPI** → High-performance security API framework  
+- 🐳 **Docker Containers** → Isolated & scalable testing environments  
+- 📊 **MongoDB** → Secure vulnerability data management  
+- 🔍 **Nmap Integration** → Automated network reconnaissance  
+- 🌐 **Web Security Scanner** → Comprehensive application testing  
+
+*Democratizing cybersecurity through automation.*
 
 ---
 
